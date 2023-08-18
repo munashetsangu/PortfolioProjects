@@ -1,3 +1,10 @@
+/*
+Covid 19 Data Exploration 
+
+Skills used: Joins, CTE's, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+*/
+
 select * 
 from PortfolioProject.dbo.coviddeaths
 order by 3,4
